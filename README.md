@@ -4,7 +4,7 @@ This repo is a collection of AI character cards in PNG and JSON format.
 
 ### Roleplay
 
-The [roleplay](roleplay/) directory contains cards intended for interactive roleplaying in a chat format. These are all SFW and suitable for most models.
+The [characters](characters/) directory contains cards intended for interactive roleplaying in a chat format. These are all SFW and suitable for most models.
 
 ### Utilities
 
